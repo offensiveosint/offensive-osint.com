@@ -1,5 +1,6 @@
 # OFFENSIVE OPEN SOURCE INTELLIGENCE - Blackhat ASIA (Singapore) 2018
-### 2st-22nd March, 2018.
+### Useful for Pentesters/Read_Teamers, Bug Bounty Hunters, Social Engineers, Risk Management Professionals, etc.
+##### 2st-22nd March, 2018.
 
 Reconnaissance is the very first phase of any Risk Assessment Exercise, which is often under-rated by many security professionals. Every pentester's arsenal should, therefore, include Open Source Intelligence (OSINT) and active reconnaissance for effective assessments.
 
